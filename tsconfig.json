@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "removeComments": true,
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "inlineSources": true,
+        "inlineSourceMap": true,
+        "noImplicitThis": true,
+        "allowJs": true,
+        "checkJs": true
+    },
+    "include": ["src/**/*"]
+}
